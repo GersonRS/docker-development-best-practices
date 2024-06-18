@@ -1,1 +1,1 @@
-# docker-development-best-practices
+# hands-on-docker-development-best-practices
